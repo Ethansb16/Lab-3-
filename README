@@ -1,0 +1,11 @@
+Team Members: Ethan Bernhardt (Lead)
+
+To use interactive keyboard: 
+1. click on the terminal and use the up / down arrow to navigate
+2. Press 'Enter' to select an option
+
+Tips: 
+    Drag window size up if you cannot see all the options, or sroll down
+
+Bug: The submiting of the reservation to the db doesn't work because it fails a foreign key constraint but 
+       I don't understand why. Everything else works as it should
